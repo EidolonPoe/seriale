@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "COM_PORT_test": {
+      "commandName": "Project",
+      "commandLineArgs": "write --port COM3 --baud 9600 --parity None --databits 8 --stopbits One"
+    }
+  }
+}

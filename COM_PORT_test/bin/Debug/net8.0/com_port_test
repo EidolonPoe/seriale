@@ -1,0 +1,15 @@
+Description:
+  write and display the Port
+
+Usage:
+  COM_PORT_test write [options]
+
+Options:
+  --port <port>                           Il nome della porta seriale [default: COM3]
+  --baud <baud>                           Velocit… flusso dati [default: 9600]
+  --parity <Even|Mark|None|Odd|Space>     Bit di parit… [default: None]
+  --databits <databits>                   Numero di bit [default: 8]
+  --stopbits <None|One|OnePointFive|Two>  Bit di stop [default: One]
+  -?, -h, --help                          Show help and usage information
+
+
